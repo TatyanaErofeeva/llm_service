@@ -152,7 +152,7 @@ ruff check .
 pytest -v
 ```
 
-Подробности сценариев — в [TESTING.md](TESTING.md).
+Подробности сценариев и **скриншоты** (запуск, успех, кеш, ошибка валидации, fallback) — в [TESTING.md](TESTING.md).
 
 ## CI
 
